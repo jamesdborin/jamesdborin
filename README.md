@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Jamie Dborin
+- 👀 I work on tensor network methods - at the intersection of quantum computing and classical numerical physics. 
+-    I am also interested in how tensor methods can be used in deep learning for edge deployment
+- 🌱 I’m currently learning HPC methods in deep learning, computing in embedded devices, and deep learning compiling techniques (Apache TVM) 
+-    Long term goal is to be able to deploy tensor network deep learning models in low powered edge devices 
+- 💞️ I’m looking to collaborate on edge ML projects
+- 📫 How to reach me - james.dborin.18@ucl.ac.uk
